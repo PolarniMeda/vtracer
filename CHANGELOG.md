@@ -5,6 +5,14 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## 0.6.12 - 2026-02-04
+
+* Python Binding
+
+## 0.6.5 - 2025-10-17
+
+* Update `fastrand` to `2.3`
+
 ## 0.6.4 - 2024-03-29
 
 * Update `visioncortex` version to `0.8.8`
